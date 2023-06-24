@@ -29,6 +29,7 @@ Once you have Python installed, you can install Matplotlib and its dependencies 
 
 ```shell
 pip install matplotlib
+```
 
 Once you have Matplotlib installed, you can navigate to the respective folders in this repository and run the code examples. Feel free to modify the code and experiment with different parameters to understand the effects and unleash your creativity!
 
