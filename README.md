@@ -37,10 +37,8 @@ Once you have Matplotlib installed, you can navigate to the respective folders i
 Contributions to this repository are welcome! If you have any suggestions, improvements, or additional examples to showcase Matplotlib's capabilities, please feel free to submit a pull request. Let's make this repository a valuable resource for the Matplotlib community.
 
 ## Resources
-Matplotlib Documentation: Official documentation providing detailed explanations and usage examples.
-Matplotlib Gallery: A gallery of examples demonstrating the wide range of plots and visualizations you can create with Matplotlib.
-Matplotlib GitHub Repository: The official GitHub repository for Matplotlib, where you can find the latest updates, report issues, and contribute to the project.
+- Matplotlib Documentation: Official documentation providing detailed explanations and usage examples.
+- Matplotlib Gallery: A gallery of examples demonstrating the wide range of plots and visualizations you can create with Matplotlib.
+- Matplotlib GitHub Repository: The official GitHub repository for Matplotlib, where you can find the latest updates, report issues, and       contribute to the project.
 
 Happy plotting!
-
-Feel free to further customize the README file to match your repository's structure and provide any additional information you deem necessary.
